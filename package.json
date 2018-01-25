@@ -48,7 +48,7 @@
     "sjcl": "=1.0.1",
     "scryptsy": "0.2.x",
     "socks5-client": "~0.3.6",
-	  "x11-hash": "*"
+	  "x11-hash": "git://github.com/UdjinM6/node-x11-hash.git"
   },
   "testling": {
     "harness": "mocha-bdd",
