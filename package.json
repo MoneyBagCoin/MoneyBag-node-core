@@ -48,7 +48,7 @@
     "sjcl": "=1.0.1",
     "scryptsy": "0.2.x",
     "socks5-client": "~0.3.6",
-	"x11-hash": "0.0.2"
+	  "x11-hash": "*"
   },
   "testling": {
     "harness": "mocha-bdd",
